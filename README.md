@@ -1,8 +1,8 @@
 # Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)
 
-Create React apps with no build configuration.
+Cоздание приложений React без конфигурирования сборки.
 
-* [Creating an App](#creating-an-app) – How to create a new app.
+* [Creating an App](#creating-an-app) – Как создатьт новое приложение.
 * [User Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
 
 Create React App works on macOS, Windows, and Linux.<br>
